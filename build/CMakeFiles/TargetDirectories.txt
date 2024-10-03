@@ -1,0 +1,9 @@
+C:/Users/oscar/OneDrive/Escritorio/database/miniProjects/graphic_engine/build/CMakeFiles/Experimental.dir
+C:/Users/oscar/OneDrive/Escritorio/database/miniProjects/graphic_engine/build/CMakeFiles/Nightly.dir
+C:/Users/oscar/OneDrive/Escritorio/database/miniProjects/graphic_engine/build/CMakeFiles/Continuous.dir
+C:/Users/oscar/OneDrive/Escritorio/database/miniProjects/graphic_engine/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/oscar/OneDrive/Escritorio/database/miniProjects/graphic_engine/build/CMakeFiles/image_tester.dir
+C:/Users/oscar/OneDrive/Escritorio/database/miniProjects/graphic_engine/build/CMakeFiles/graphic_thing.dir
+C:/Users/oscar/OneDrive/Escritorio/database/miniProjects/graphic_engine/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/oscar/OneDrive/Escritorio/database/miniProjects/graphic_engine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/oscar/OneDrive/Escritorio/database/miniProjects/graphic_engine/build/CMakeFiles/ZERO_CHECK.dir

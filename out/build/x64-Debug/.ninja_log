@@ -1,0 +1,5 @@
+# ninja log v5
+9	1183	7458047490968782	CMakeFiles/graphic_thing.dir/main.cpp.obj	ed32d067a3c1ed9
+1041	1736	7458047820867949	image_tester.exe	97654bc20bcf222
+1187	1906	7458047497906861	graphic_thing.exe	6999abd88985f3d4
+25	1038	7458047814150100	CMakeFiles/image_tester.dir/simple_image_output.cpp.obj	7eaf9e544c31aed2
